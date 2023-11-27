@@ -8,3 +8,6 @@ I am a poet and editor of poetry and used to write and work with beautiful text 
 - how css and html work together
 - the way javascript returns functions
 - black cats
+
+## So many visitors here - you are number:
+![Visitor Count](https://profile-counter.glitch.me/{TS-Severin}/count.svg)
