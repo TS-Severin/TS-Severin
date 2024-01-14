@@ -1,4 +1,4 @@
-### Hi there 👋 I'am one of the new coriander spicedlings 🌿🌶️
+### Hi there 👋 I'am currently studying at Spiced Academy 🌿🌶️
 
 I am a poet and editor of **poetry** and used to work with beautiful text ✍️
 
