@@ -8,7 +8,7 @@ now I learn to **code** which sounds pretty much the same 🤖
 
 ### Skills
 
-<img src="./html_logo.jpg" alt="html logo" width=256px>
+<img src="./html_logo.png" alt="html logo" width=128px>
 
 ## What I like
 - how css and html work together 🤝
