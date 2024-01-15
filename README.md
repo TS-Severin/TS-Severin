@@ -6,6 +6,10 @@ which is **fun** to read and some times **difficult** to understand 🤩🏋
 
 now I learn to **code** which sounds pretty much the same 🤖
 
+### Skills
+
+<img href="./html_logo.png" alt="html logo" width=256px>
+
 ## What I like
 - how css and html work together 🤝
 - the way javascript returns functions ♾️
