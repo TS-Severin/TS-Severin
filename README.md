@@ -1,12 +1,18 @@
-### Hi there 👋 I'am currently studying at Spiced Academy 🌿🌶️
+### Hi there 👋 I'am currently learning at Spiced Academy 🌿🌶️
 
-I am a poet and editor of **poetry** and used to work with beautiful text ✍️
+I'm Tillmann, a full stack web developer with a background in literature, publishing and creative writing, and based in Berlin. 
 
-which is **fun** to read and some times **difficult** to understand 🤩🏋
+Since the past two years I am step by step moving from building websites with or withoung cms to full stack web development. Currently I am learning at spiced academy in Berlin. 
 
-now I learn to **code** which sounds pretty much the same 🤖
+## code by day books by night
 
-### Skills
+Experienced in **managing** large-scale events like festivals in **teams** that work hard and stay relaxed 🚂
+
+I am an ex-language teacher and enjoy working with others - and yes, it is true, as a teacher your learn more than you teach 👨‍🏫
+
+When not coding I am a poet, translator, and editor of **poetry** and used to work with text ✍️
+
+### my stack
 
 <p float="left">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png' width='120'>
@@ -16,9 +22,9 @@ now I learn to **code** which sounds pretty much the same 🤖
 </p>
 
 ## What I like
-- how css and html work together 🤝
-- the way javascript returns functions ♾️
+- how css works together with other code 🤝
+- abstracted functions ♾️
 - cats 😻
 
-## So many visitors here - you are number:
+## I still remember 90s internet - and you are visitor:
 ![Visitor Count](https://profile-counter.glitch.me/{TS-Severin}/count.svg)
