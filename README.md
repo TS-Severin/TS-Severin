@@ -2,7 +2,7 @@
 
 I'm Tillmann, a full stack web developer with a background in literature, publishing and creative writing, and based in Berlin. 
 
-Since the past two years I am step by step moving from building websites with or withoung cms to full stack web development. Currently I am learning at spiced academy in Berlin. 
+Since the past two years I am step by step moving from building websites with or without cms to full stack web development. Currently I am learning at spiced academy in Berlin. 
 
 ## code by day books by night
 
