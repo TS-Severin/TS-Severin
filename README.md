@@ -1,8 +1,13 @@
 ### Hi there 👋 
 
-I'm Tillmann, a **web developer**. Currently I am working self-employed and create websites or help others restructure their websites (next.js / wordpress / grav). 
+I'm Tillmann, a **web developer**. Currently I am working self-employed and create websites or help others restructure their websites ([next.js]([https://sgdn.vercel.app/](https://erinnerungsfutur.vercel.app/) / [wordpress](https://christinekoschmieder.de/) / grav / squarespace).
 
-I passed the **Web development bootcamp at Spiced Academy** in Winter 2023/24. Before doing that I worked with **Wordpress** and learned HTML and CSS with **codecademy**.
+Here are some examples of my work you don't find in my repositories (at least not publicly):
+- Build with [grav](https://getgrav.org/): Website for the Startup [GleamShard](https://gleamshard.com/)
+- Build with Wordpress 2024: Personal website for the writer [Christine Koschmieder](https://christinekoschmieder.de/)
+- Restructured Squarespace page including Landingpage written in CSS: Personal website for the writer [Heidi Saeveraid](https://heidisaevareid.com/)
+
+I passed the [**Web development bootcamp at Spiced Academy**](https://www.spiced-academy.com/de/program/full-stack-web-development) in Winter 2023/24. Before doing that I worked with **Wordpress** and learned HTML and CSS with **codecademy**.
 
 My creative background in literature and my experience in event management and as a language teacher help me understand client's needs, present outcomes, and work with others in teams. 
 
