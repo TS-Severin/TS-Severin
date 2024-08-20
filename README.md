@@ -11,7 +11,7 @@ I passed the [**Web development bootcamp at Spiced Academy**](https://www.spiced
 
 My creative background in literature and my experience in event management and as a language teacher help me understand client's needs, present outcomes, and work with others in teams. 
 
-## coding in teams
+## Coding in teams
 
 Experienced in **managing** large-scale events like festivals in **teams** that work hard and stay relaxed 🚂
 
