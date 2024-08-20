@@ -1,16 +1,18 @@
-### Hi there 👋 I'am currently learning at Spiced Academy 🌿🌶️
+### Hi there 👋 
 
-I'm Tillmann, a full stack web developer with a background in literature, publishing and creative writing, and based in Berlin. 
+I'm Tillmann, a **web developer**. Currently I am working self-employed and create websites or help others restructure their websites (next.js / wordpress / grav). 
 
-Since the past two years I am step by step moving from building websites with or without cms to full stack web development. Currently I am learning at spiced academy in Berlin. 
+I passed the **Web development bootcamp at Spiced Academy** in Winter 2023/24. Before doing that I worked with **Wordpress** and learned HTML and CSS with **codecademy**.
 
-## code by day books by night
+My creative background in literature and my experience in event management and as a language teacher help me understand client's needs, present outcomes, and work with others in teams. 
+
+## coding in teams
 
 Experienced in **managing** large-scale events like festivals in **teams** that work hard and stay relaxed 🚂
 
-I am an ex-language teacher and enjoy working with others - and yes, it is true, as a teacher your learn more than you teach 👨‍🏫
+As an ex-language teacher and enjoy **working with others** - and yes, it is true, as a teacher your learn more than you teach 👨‍🏫
 
-When not coding I am a poet, translator, and editor of **poetry** and used to work with text ✍️
+When not coding I run a garage **publishing** house for poetry or write myself ✍️
 
 ### my stack
 
@@ -22,9 +24,9 @@ When not coding I am a poet, translator, and editor of **poetry** and used to wo
 </p>
 
 ## What I like
-- how css works together with other code 🤝
-- abstracted functions ♾️
-- cats 😻
+- how solutions to coding problems come unexpected - when I am bouldering, swimming, or talking with friends about the novel I just finished 🧗‍♂️
+- how different frameworks and languages rely on a similar structure ♾️
+- how cats solve problems when food is involved 😻
 
-## I still remember 90s internet - and you are visitor:
+## I still remember the early internet - and you are visitor:
 ![Visitor Count](https://profile-counter.glitch.me/{TS-Severin}/count.svg)
