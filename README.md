@@ -19,7 +19,7 @@ As an ex-language teacher and enjoy **working with others** - and yes, it is tru
 
 When not coding I run a garage **publishing** house for poetry or write myself ✍️
 
-### my stack
+## My stack
 
 <p float="left">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png' width='120'>
@@ -33,5 +33,5 @@ When not coding I run a garage **publishing** house for poetry or write myself �
 - how different frameworks and languages rely on a similar structure ♾️
 - how cats solve problems when food is involved 😻
 
-## I still remember the early internet - and you are visitor:
+### I still remember the early internet - and you are visitor:
 ![Visitor Count](https://profile-counter.glitch.me/{TS-Severin}/count.svg)
