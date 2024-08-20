@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Tillmann, a **web developer**. Currently I am working self-employed and create websites or help others restructure their websites ([next.js]([https://sgdn.vercel.app/](https://erinnerungsfutur.vercel.app/) / [wordpress](https://christinekoschmieder.de/) / grav / squarespace).
+I'm Tillmann, a **web developer**. Currently I am working self-employed and create websites or help others restructure their websites in different CMS' and frameworks.
 
 Here are some examples of my work you don't find in my repositories (at least not publicly):
 - Build with [grav](https://getgrav.org/): Website for the Startup [GleamShard](https://gleamshard.com/)
