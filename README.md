@@ -29,7 +29,7 @@ When not coding I run a garage **publishing** house for poetry or write myself �
 </p>
 
 ## What I like
-- how solutions to coding problems come unexpected - when I am bouldering, swimming, or talking with friends about the novel I just finished 🧗‍♂️
+- how solutions to coding problems come unexpected - when I am bouldering, swimming, or talking with friends about the novel I just finished reading 🧗‍♂️
 - how different frameworks and languages rely on a similar structure ♾️
 - how cats solve problems when food is involved 😻
 
