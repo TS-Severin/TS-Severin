@@ -15,7 +15,7 @@ My creative background in literature and my experience in event management and a
 
 Experienced in **managing** large-scale events like festivals in **teams** that work hard and stay relaxed 🚂
 
-As an ex-language teacher and enjoy **working with others** - and yes, it is true, as a teacher your learn more than you teach 👨‍🏫
+As an ex-language teacher, I enjoy **working with others** - and yes, it is true, as a teacher your learn more than you teach 👨‍🏫
 
 When not coding I run a garage **publishing** house for poetry or write myself ✍️
 
